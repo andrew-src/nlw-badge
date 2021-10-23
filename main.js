@@ -27,7 +27,7 @@ function getGitHubProfileInfos() {
     .then(data => {
       // armazena a "response" acima em formato .json
       userName.textContent = data.name
-      userBio.textContent = data.bio
+      //userBio.textContent = data.bio
       userGithub.href = data.html_url
       userImage.src = data.avatar_url
       userLogin.textContent = data.login
