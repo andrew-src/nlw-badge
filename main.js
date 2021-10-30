@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   // objeto
   github: 'eoandrw',
-  youtube: 'andrewwilliam03',
+  youtube: 'watch?v=dQw4w9WgXcQ',
   facebook: 'eoandrw',
   instagram: 'eoandrw',
   twitter: 'eoandrw'
